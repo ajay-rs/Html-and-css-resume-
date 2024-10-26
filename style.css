@@ -1,0 +1,82 @@
+
+                .two{
+                    text-align:left;
+                   
+                   }
+
+                .back{
+                        background:
+	  #bfbfbf;}
+
+                 #width{
+                         width: 2800;  
+                      }
+                body{
+                    text-align:justify;
+                    }
+
+                 .title{
+                       
+                        background:#d9d9d9;
+                        }
+               
+
+                  #file{
+            
+                        background-color:lightyellow;
+                    }
+
+                a{
+                        text-decoration:none;
+                    }
+
+               a:hover {color: #99ff99;}
+               a:active{color:red;}
+
+            
+               .tab{
+                    text-align:center;
+
+                    }
+                    abbr{
+                        text-decoration:none;}
+
+
+                .one{
+                          position: sticky;
+                          top:0;
+                       
+                         }
+            .eig{
+                          position: sticky;
+                          top:0;
+                       
+                         }
+
+                img{
+                    width:140px;
+                    height:140
+                    }
+                      .float-left {
+                        width:160;
+                        height:200;
+                        float:right;
+                        margin-right: 20px;}
+
+
+          .flee{
+                display:flex}
+            .fl{
+                margin-left:10;
+                flex-grow:20}
+            
+            .an{
+                flex-grow:1}
+            .fle{
+                display:flex}
+            .f1{
+                     margin-left:10;
+                    flex-grow:9}
+            .na{
+                    flex-grow:1}
+
